@@ -23,18 +23,18 @@
 ### 🖥 TEAMS 🖥
 2021.03 ~ now - [한동대학교 전산분과 동아리 슬기짜기(SLE)](https://github.com/HGU-slegizzagi)  
 2021.03 ~ 2021.11 - 아니 이거 왜 안돼 (21-1 SLE 방학 프로젝트)   
-2021.09 ~ now - 세미콜론; (21-2 SLE 방학 프로젝트)  
+2021.09 ~ 2022.01 - 세미콜론; (21-2 SLE 방학 프로젝트)  
 
 ### 🎄 PROJECT - TEAM 🎄
 2021.03 ~ 2021.11 - Finding (App)  
-2021.09 ~ now - 아맞다 : Hisnet 공지 알림이 (App)   
+2021.09 ~ 2022.01 - 아맞다 : Hisnet 공지 알림이 (App)   
 
 ### 🎉 ACHIEVEMENTS 🎉  
 2021.12 - 2021 한동 SW Festival 소프트웨어를 활용한 문제해결 아이디어 공모전 장려상  
 2021.12 - 2021 한동 SW Festival 스마트 애플리케이션 공모전 장려상  
 
 ### 📮 CONTACT ME! 📮
-e-mail: 22000372@handong.edu  
+e-mail: 22000372@handong.ac.kr  
 
 ### 📈 GIT STATS 📈
 ![songdabin's GitHub stats](https://github-readme-stats.vercel.app/api?username=songdabin&show_icons=true&theme=github_dark)
