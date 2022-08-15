@@ -23,17 +23,21 @@
 
 
 ### 🖥 TEAMS 🖥
-2021.03 ~ now - [한동대학교 전산분과 동아리 슬기짜기(SLE)](https://github.com/HGU-slegizzagi)  
-2021.03 ~ 2021.11 - 아니 이거 왜 안돼 (21-1 SLE 방학 프로젝트)   
-2021.09 ~ 2022.01 - 세미콜론; (21-2 SLE 방학 프로젝트)  
+2021.03 - now - [한동대학교 전산분과 동아리 슬기짜기(SLE)](https://github.com/HGU-slegizzagi)  
+2021.03 - 2021.11 - 아니 이거 왜 안돼 (21-1 SLE 방학 프로젝트)   
+2021.09 - 2022.01 - 세미콜론; (21-2 SLE 방학 프로젝트)  
 
 ### 🎄 PROJECT - TEAM 🎄
-2021.03 ~ 2021.11 - Finding (App)  
-2021.09 ~ 2022.01 - 아맞다 : Hisnet 공지 알림이 (App)   
+2021.03 - 2021.11 - Finding (App)  
+2021.09 - 2022.01 - 아맞다 : Hisnet 공지 알림이 (App)   
+
+### 🎄 PROJECT 🎄
+2022.07 - 2022.08 [Magazine-B](https://magazine-b.co.kr) clone coding ([Web Link](https://magazine-b.herokuapp.com)) (22-Summer web service camp)
 
 ### 🎉 ACHIEVEMENTS 🎉  
 2021.12 - 2021 한동 SW Festival 소프트웨어를 활용한 문제해결 아이디어 공모전 장려상  
 2021.12 - 2021 한동 SW Festival 스마트 애플리케이션 공모전 장려상  
+2022.06 - 2022.07 Bizflow M Pre-Contest 우수상
 
 ### 📮 CONTACT ME! 📮
 e-mail: 22000372@handong.ac.kr  
