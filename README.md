@@ -28,7 +28,8 @@
 ### 🎉 ACHIEVEMENTS 🎉  
 2021.12 - 2021 한동 SW Festival 소프트웨어를 활용한 문제해결 아이디어 공모전 장려상  
 2021.12 - 2021 한동 SW Festival 스마트 애플리케이션 공모전 장려상  
-2022.06 - 2022.07 Bizflow M Pre-Contest 우수상
+2022.06 - 2022.07 Bizflow M Pre-Contest 우수상  
+2023.05 - 캡스톤 페스티벌 대상
 
 ### 📮 CONTACT ME! 📮
 e-mail: 22000372@handong.ac.kr  
